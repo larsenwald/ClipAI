@@ -1,0 +1,14 @@
+C:\Users\Imrane\Desktop\A\ClipAI\bin\Debug\net9.0-windows\ClipAI.exe
+C:\Users\Imrane\Desktop\A\ClipAI\bin\Debug\net9.0-windows\ClipAI.deps.json
+C:\Users\Imrane\Desktop\A\ClipAI\bin\Debug\net9.0-windows\ClipAI.runtimeconfig.json
+C:\Users\Imrane\Desktop\A\ClipAI\bin\Debug\net9.0-windows\ClipAI.dll
+C:\Users\Imrane\Desktop\A\ClipAI\bin\Debug\net9.0-windows\ClipAI.pdb
+C:\Users\Imrane\Desktop\A\ClipAI\obj\Debug\net9.0-windows\ClipAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Imrane\Desktop\A\ClipAI\obj\Debug\net9.0-windows\ClipAI.AssemblyInfoInputs.cache
+C:\Users\Imrane\Desktop\A\ClipAI\obj\Debug\net9.0-windows\ClipAI.AssemblyInfo.cs
+C:\Users\Imrane\Desktop\A\ClipAI\obj\Debug\net9.0-windows\ClipAI.csproj.CoreCompileInputs.cache
+C:\Users\Imrane\Desktop\A\ClipAI\obj\Debug\net9.0-windows\ClipAI.dll
+C:\Users\Imrane\Desktop\A\ClipAI\obj\Debug\net9.0-windows\refint\ClipAI.dll
+C:\Users\Imrane\Desktop\A\ClipAI\obj\Debug\net9.0-windows\ClipAI.pdb
+C:\Users\Imrane\Desktop\A\ClipAI\obj\Debug\net9.0-windows\ClipAI.genruntimeconfig.cache
+C:\Users\Imrane\Desktop\A\ClipAI\obj\Debug\net9.0-windows\ref\ClipAI.dll
