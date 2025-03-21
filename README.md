@@ -6,6 +6,7 @@ This is a windows application. Super lightweight, tray-based AI clipboard assist
 ### Download
 Get the latest release [here](https://github.com/larsenwald/ClipAI/releases)
 
+_Note: If you get Windows Defender blocking the download, whitelist it. It's a false positive._
 
 ### How to use
 1. Download the latest release and unpack the zip file
