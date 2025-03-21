@@ -34,6 +34,7 @@ namespace ClipAI
         {
             InitializeComponent();
             InitializeTrayIcon();
+            this.Icon = new Icon("Assets/ClipAI.ico");
             httpClient = new HttpClient();
             keyboardHook = new GlobalKeyboardHook();
         }
@@ -145,7 +146,7 @@ namespace ClipAI
         {
             trayIcon = new NotifyIcon
             {
-                Icon = SystemIcons.Application,
+                Icon = new Icon("Assets/ClipAI.ico"),
                 Visible = false,
                 Text = "ClipAI"
             };

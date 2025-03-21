@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClipAI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cadcb0eae02e2821961d22669e78fc8f1aacff20")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClipAI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClipAI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
